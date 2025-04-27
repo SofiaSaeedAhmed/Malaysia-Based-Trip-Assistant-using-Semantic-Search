@@ -5,7 +5,7 @@
 
 This project presents a **travel search engine** designed to assist users in planning trips across Malaysia by recommending attractions, hotels, and restaurants.  
 The system integrates **semantic search** using **Sentence Transformers** and **FAISS**, enhanced with **fuzzy string matching** for robust query handling.  
-Additionally, a **feedback mechanism** using user likes supports **preference-based re-ranking**, fostering a more personalized and adaptive recommendation experience.
+Additionally, a **feedback mechanism** using user likes supports **preference-based re-ranking**, fostering a more personalised and adaptive recommendation experience.
 
 The core objective is for the model to **understand user queries** and return the **most relevant answers** from the provided database.
 
@@ -35,6 +35,6 @@ The core objective is for the model to **understand user queries** and return th
 # Run the Flask server
 python chatbot_server.py
 
-### Frontend Setup
+---
 
 
