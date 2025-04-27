@@ -34,3 +34,7 @@ The core objective is for the model to **understand user queries** and return th
 ```bash
 # Run the Flask server
 python chatbot_server.py
+
+### Frontend Setup
+
+
