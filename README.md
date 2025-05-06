@@ -25,6 +25,8 @@ The core objective is for the model to **understand user queries** and return th
 | `final_hotel_bot.py` | Handles hotel-related queries using semantic search and fuzzy matching. |
 | `final_restaurant_bot.py` | Handles restaurant-related queries using semantic search and fuzzy matching. |
 | `README.md` | Project overview and documentation. |
+|             | Pre-processing of dataset
+|             | Evaluation of 
 
 ---
 
