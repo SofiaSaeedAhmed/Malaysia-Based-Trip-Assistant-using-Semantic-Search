@@ -27,6 +27,7 @@ The core objective is for the model to **understand user queries** and return th
 | `README.md` | Project overview and documentation. |
 | `restaurant_metric_calculation.py`| Evaluation metrics for restaurant search engine
 | `attractions_metric_calculation.py`| Evaluation metrics for attractions search engine
+| `Data Pre-processing/` | Folder which contains pre-processing for all cities
 
 ---
 
