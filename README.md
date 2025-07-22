@@ -1,4 +1,3 @@
-# Group-P---DIA-Project
 # Travel Search Engine - Malaysia
 
 ## Description
