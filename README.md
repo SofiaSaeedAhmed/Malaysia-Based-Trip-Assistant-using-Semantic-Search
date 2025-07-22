@@ -9,6 +9,15 @@ Additionally, a **feedback mechanism** using user likes supports **preference-ba
 
 The core objective is for the model to **understand user queries** and return the **most relevant answers** from the provided database.
 
+• Built a semantic travel recommendation engine for 11 Malaysian cities, covering 100+ attractions, hotels, and 
+restaurants using Sentence Transformers (all-MiniLM-L6-v2) and FAISS for dense vector search.
+
+• Engineered a backend pipeline to load, preprocess, and index regional CSV datasets, supporting typo-tolerant fuzzy 
+matching and personalised result re-ranking based on user feedback.
+
+• Conducted a usability study with 30 participants, collecting real user queries and feedback via a structured 
+questionnaire to evaluate accuracy, relevance, and satisfaction, informing iterative improvements.
+
 ---
 
 ## Project Structure
